@@ -26,24 +26,14 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=MaDHouSe79&margin-w=15&column=6" />
 </p>
 
-<p align="center">
-  <img alig src="https://raw.githubusercontent.com/kamranahmedse/driver.js/master/demo/images/split.png" />
-</p>
 
 # MH-SitAnySeat.
 - you can select every vehicle seat you want.
 - if a player is already in your selected seat, you can't select that seat.
 - works with target eye
 
-<p align="center">
-  <img alig src="https://raw.githubusercontent.com/kamranahmedse/driver.js/master/demo/images/split.png" />
-</p>
-
-## 🐞 Any bugs issues or suggestions, let my know. 👊😎
-
-## 🙈 Youtube & Discord
-- [Youtube](https://www.youtube.com/@MaDHouSe79) for videos
-- [Discord](https://discord.gg/cEMSeE9dgS)
+# 🙈 Youtube
+- [Youtube](https://www.youtube.com/c/MaDHouSe79)
 
 # LICENSE
 [GPL LICENSE](./LICENSE)<br />
